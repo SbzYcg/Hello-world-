@@ -1,0 +1,14 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 虚拟环境
+venv/
+.venv/
+__pycache__/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 编译和临时文件
+*.log
+*.swp
